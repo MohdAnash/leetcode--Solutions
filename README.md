@@ -67,3 +67,15 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ---
 
 <!---LeetCode Topics Start
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohdAnash/leetcode--Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohdAnash/leetcode--Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
