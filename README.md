@@ -1,21 +1,21 @@
-DSA-by-Ayush 🚀
+DSA-by-Mohd Anash🚀
 
-![Java](https://img.shields.io/badge/Language-Java-blue.svg)
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![LeetCode](https://img.shields.io/badge/LeetCode-250%2B-success?logo=leetcode)
-![Repo Size](https://img.shields.io/github/repo-size/Ayushpandey2026/DSA-by-Ayush)
+![Repo Size](https://img.shields.io/github/repo-size/MohdAnash2026/DSA-by-Anash)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 ---
 
-This repository is a structured collection of my LeetCode & DSA practice in *Java*.  
-It includes 300+ solved problems categorized by topic for easy revision and quick reference.
+This repository is a structured collection of my LeetCode & DSA practice in *Python*.  
+
 
 ---
 
 ## 📈 Progress
 
 > 🧠 Target: 500 Problems  
-> ✅ Completed: *~300* Problems
+> ✅ Completed: ** Problems
 
 
 ---
@@ -42,8 +42,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ---
 
 ## ✨ Features
-- Problems solved in *Java*
-- File naming follows LeetCode format: 0001-two-sum.java
+- Problems solved in *Python*
+- File naming follows LeetCode format: 0001-two-sum.Python
 - Categorized into topic folders (WIP)
 - Comments, time/space complexity, and explanations included
 
@@ -58,8 +58,8 @@ It includes 300+ solved problems categorized by topic for easy revision and quic
 ---
 
 ## 🔗 My Profiles
-- LeetCode: [Ayushpandey23](https://leetcode.com/Ayushpandey23)
-- LinkedIn: [Ayush Pandey](https://linkedin.com/in/ayushp2007)
+- LeetCode: [Mohd Anash](https://leetcode.com/MohdAnash)
+- LinkedIn: [Mohd Anash](https://linkedin.com/in/mohd-anash-910593318)
 
 
 > 👨‍💻 Consistency is key — Let's crack placements together!
