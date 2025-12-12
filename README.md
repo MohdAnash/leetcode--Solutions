@@ -86,6 +86,7 @@ This repository is a structured collection of my LeetCode & DSA practice in *Pyt
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdAnash/leetcode--Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/MohdAnash/leetcode--Solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
